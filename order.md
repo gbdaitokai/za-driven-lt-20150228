@@ -4,3 +4,4 @@
 | maepon             | 『執筆』ってどうなのよ？（完全非公開版） |
 | zephiransas        | "How hard can it be?" または "ラブライブで学ぶプログラマが知るべきたった一つのこと" |
 | さきえ             | 続・猟銃女子 |
+| deep_tkkn            | "僕の考えたさいきょーのVMM開発環境" or "jailhouse を動かしてみた" |
