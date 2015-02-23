@@ -13,6 +13,6 @@
 | kasoku_ksk                       | TBD                                                               |
 | ねやの＠にわか提督               | TBD                                                               |
 | 岡山宇宙教育懇談会 @okayama_uchu | TBD                                                               |
-| Koutarou  Ishizaki               | TBD                                                               |
+| Koutarou  Ishizaki               | 見せてもらおうか Google検索 の性能とやらを                        |
 | みずき                           | TBD                                                               |
 | 48                               | TBD                                                               |
