@@ -16,4 +16,4 @@
 | Koutarou  Ishizaki               | 見せてもらおうか Google検索 の性能とやらを                        |
 | みずき                           | TBD                                                               |
 | 48                               | TBD                                                               |
-| 末宗佳倫                         | TBD                                                               |
+| 末宗佳倫                         | Pepper兄弟どんぶらこ                                              |
