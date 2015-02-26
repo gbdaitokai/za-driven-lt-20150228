@@ -6,7 +6,7 @@
 | maepon                           | 『執筆』ってどうなのよ？（完全非公開版）                          |
 | 尾古 豊明                        | TBD                                                               |
 | ゆかりん                         | TBD                                                               |
-| ryosms                           | TBD                                                               |
+| ryosms                           | 再考　エンジニアの装備　〜武器編〜                              　|
 | さきえ                           | 続・猟銃女子                                                      |
 | Yuichiro Yamakawa                | TBD                                                               |
 | deep_tkkn                        | "僕の考えたさいきょーのVMM開発環境" or "jailhouse を動かしてみた" |
