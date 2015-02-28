@@ -9,7 +9,7 @@
 | ryosms                           | 再考　エンジニアの装備　〜武器編〜                              　|
 | さきえ                           | 続・猟銃女子                                                      |
 | Yuichiro Yamakawa                | TBD                                                               |
-| deep_tkkn                        | "僕の考えたさいきょーのVMM開発環境" or "jailhouse を動かしてみた" |
+| deep_tkkn                        | 僕の考えたさいきょーのVMM開発環境 (座駆動LT Version)              |
 | kasoku_ksk                       | TBD                                                               |
 | ねやの＠にわか提督               | TBD                                                               |
 | 岡山宇宙教育懇談会 @okayama_uchu | TBD                                                               |
